@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "firmware",
+    "software",
+    "drivers"
+]
+
+resolver = "3"
